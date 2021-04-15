@@ -1,0 +1,51 @@
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csprojAssemblyReference.cache
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.frm_Cal.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.LottoMax.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.intro.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.IP4.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.Lotto_649.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.MoneyEx.resources
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.Properties.Resources.resources
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.TempConversions.resources
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.GenerateResource.cache
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.CoreCompileInputs.cache
+F:\RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe.config
+F:\RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe
+F:\RaviFinal\RaviFinal\bin\Debug\RaviFinal.pdb
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.exe
+F:\RaviFinal\RaviFinal\obj\Debug\RaviFinal.pdb
+F:\RaviFinal\RaviFinal\obj\Debug\Ravi.Dashboardravi.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe.config
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\bin\Debug\RaviFinal.pdb
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csprojAssemblyReference.cache
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.frm_Cal.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.Dashboardravi.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.LottoMax.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.intro.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.IP4.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.Lotto_649.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.MoneyEx.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.Properties.Resources.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\Ravi.TempConversions.resources
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.GenerateResource.cache
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.exe
+C:\Users\Ravi patel\Downloads\exam\RaviFinal\RaviFinal\obj\Debug\RaviFinal.pdb
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe.config
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\bin\Debug\RaviFinal.exe
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\bin\Debug\RaviFinal.pdb
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.csprojAssemblyReference.cache
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.frm_Cal.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.Dashboardravi.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.LottoMax.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.intro.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.IP4.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.Lotto_649.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.MoneyEx.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.Properties.Resources.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\Ravi.TempConversions.resources
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.GenerateResource.cache
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.csproj.CoreCompileInputs.cache
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.exe
+C:\Users\patel\Downloads\20200724105012_RaviFinal\RaviFinal\obj\Debug\RaviFinal.pdb
